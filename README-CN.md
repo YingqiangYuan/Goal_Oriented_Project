@@ -86,9 +86,9 @@
 
 ## ✅ 完成检查清单
 
-- [ ] 创建了一个专门用于某门课程的 Claude Project，命名清晰
-- [ ] 教材已按章节拆分并压缩，上传到 Knowledge Base
-- [ ] 所有课程资料已上传，文件名整理规范
+- [X] 创建了一个专门用于某门课程的 Claude Project，命名清晰
+- [X] 教材已按章节拆分并压缩，上传到 Knowledge Base
+- [X] 所有课程资料已上传，文件名整理规范
 - [ ] 资料索引文档已创建并 Add to Project
 - [ ] Instructions 已写好，包含角色定义、读取索引的规则、progress.md 的维护规则
 - [ ] 需求目标文档已根据当前作业创建并 Add to Project
