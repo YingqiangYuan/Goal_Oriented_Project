@@ -89,9 +89,9 @@
 - [X] 创建了一个专门用于某门课程的 Claude Project，命名清晰
 - [X] 教材已按章节拆分并压缩，上传到 Knowledge Base
 - [X] 所有课程资料已上传，文件名整理规范
-- [ ] 资料索引文档已创建并 Add to Project
-- [ ] Instructions 已写好，包含角色定义、读取索引的规则、progress.md 的维护规则
-- [ ] 需求目标文档已根据当前作业创建并 Add to Project
+- [X] 资料索引文档已创建并 Add to Project
+- [X] Instructions 已写好，包含角色定义、读取索引的规则、progress.md 的维护规则
+- [X] 需求目标文档已根据当前作业创建并 Add to Project
 - [ ] 已完成至少一次学习对话，验证 AI 能读取教材并正常引导学习
 - [ ] 已更新并保存第一份 progress.md 到 Knowledge Base
 - [ ] 至少有一份自己写的学习笔记 Artifact 已 Add to Project

@@ -86,12 +86,12 @@ What's truly scarce now is your judgment — your ability to judge whether AI's 
 
 ## ✅ Completion Checklist
 
-- [ ] Created a Claude Project specifically for one course, with a clear name
-- [ ] Textbook has been split by chapter and compressed, uploaded to Knowledge Base
-- [ ] All course materials uploaded, file names organized clearly
-- [ ] Materials index document created and Added to Project
-- [ ] Instructions written, including role definition, index lookup rules, and progress.md maintenance rules
-- [ ] Requirements document created based on current assignment and Added to Project
+- [X] Created a Claude Project specifically for one course, with a clear name
+- [X] Textbook has been split by chapter and compressed, uploaded to Knowledge Base
+- [X] All course materials uploaded, file names organized clearly
+- [X] Materials index document created and Added to Project
+- [X] Instructions written, including role definition, index lookup rules, and progress.md maintenance rules
+- [X] Requirements document created based on current assignment and Added to Project
 - [ ] Completed at least one learning conversation, verified AI can read textbook and guide learning properly
 - [ ] Updated and saved the first progress.md to Knowledge Base
 - [ ] At least one personal learning note Artifact has been Added to Project
