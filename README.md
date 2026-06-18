@@ -92,9 +92,9 @@ What's truly scarce now is your judgment — your ability to judge whether AI's 
 - [X] Materials index document created and Added to Project
 - [X] Instructions written, including role definition, index lookup rules, and progress.md maintenance rules
 - [X] Requirements document created based on current assignment and Added to Project
-- [ ] Completed at least one learning conversation, verified AI can read textbook and guide learning properly
-- [ ] Updated and saved the first progress.md to Knowledge Base
-- [ ] At least one personal learning note Artifact has been Added to Project
+- [X] Completed at least one learning conversation, verified AI can read textbook and guide learning properly
+- [X] Updated and saved the first progress.md to Knowledge Base
+- [X] At least one personal learning note Artifact has been Added to Project
 
 ## 💡 Key Takeaways
 

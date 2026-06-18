@@ -92,9 +92,9 @@
 - [X] 资料索引文档已创建并 Add to Project
 - [X] Instructions 已写好，包含角色定义、读取索引的规则、progress.md 的维护规则
 - [X] 需求目标文档已根据当前作业创建并 Add to Project
-- [ ] 已完成至少一次学习对话，验证 AI 能读取教材并正常引导学习
-- [ ] 已更新并保存第一份 progress.md 到 Knowledge Base
-- [ ] 至少有一份自己写的学习笔记 Artifact 已 Add to Project
+- [X] 已完成至少一次学习对话，验证 AI 能读取教材并正常引导学习
+- [X] 已更新并保存第一份 progress.md 到 Knowledge Base
+- [X] 至少有一份自己写的学习笔记 Artifact 已 Add to Project
 
 ## 💡 关键要点总结
 
